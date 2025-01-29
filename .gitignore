@@ -1,0 +1,24 @@
+*.iml
+/Attendance/.gradle
+/Attendance/local.properties
+/Attendance/.idea/caches
+/Attendance/.idea/libraries
+/Attendance/.idea/modules.xml
+/Attendance/.idea/workspace.xml
+/Attendance/.idea/navEditor.xml
+/Attendance/.idea/assetWizardSettings.xml
+/Attendance.DS_Store
+/Attendance/build
+/Attendance/captures
+/Attendance.externalNativeBuild
+/Attendance.cxx
+/Attendancelocal.properties
+
+/attendance_app_backend/node_modules/
+
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+
+/Attendance/Attendance/node_modules/
+/Attendance/node_modules/
